@@ -1,5 +1,15 @@
 .App {
-  text-align: center;
+}
+
+.imageq {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* width: 100vw; */
+}
+.imageq img {
+  width: 800px;
+  object-fit: contain;
 }
 
 .App-logo {
