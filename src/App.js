@@ -18,7 +18,7 @@ function App() {
   
   return (
     <div className="App">
-      <h1>Fox Name: {image.name} </h1>
+      <h1>Fox Name 1: {image.name} </h1>
       <div className="imageq">
         <img src={image.img} alt="Foximage"></img>
       </div>
